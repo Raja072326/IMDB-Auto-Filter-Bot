@@ -118,8 +118,8 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 ## Support
-[![telegram badge](https://t.me/allnewmovieintime)](https://telegram.dog/JOSPSupport)
-[![telegram badge](https://t.me/allnewmovieintime)](https://telegram.dog/JosProjects)
+[![telegram badge](https://t.me/allnewmovieintime)](https://t.me/allnewmovieintime)
+[![telegram badge](https://t.me/allnewmovieintime)](https://t.me/allnewmovieintime)
 
 ## Credits 
 * [![Zaute-Km](https://img.shields.io/static/v1?label=Dingdi-Dev&message=devs&color=critical)](https://telegram.dog/zautebot)
