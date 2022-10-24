@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/JOSProjects/IMDb-Movie-Bot",
-    "repository": "https://github.com/JOSProjects/IMDb-Movie-Bot",
+    "repository": "https://github.com/Raja072326/IMDB-Auto-Filter-Bot/blob/master/app.json",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
