@@ -51,7 +51,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=am9zcHJvamVjdHMvdGdtb3ZpZWJvdCBtYXN0ZXI">
-  <img src="https://github.com/Raja072326/IMDB-Auto-Filter-Bot/edit/master/README.md" alt="Deploy">
+  <img src="https://github.com/Raja072326/IMDB-Auto-Filter-Bot" alt="Deploy">
 
 <a href="https://t.me/allnewmovieintime"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Telegram"></a>
 <a href="https://t.me/allnewmovieintime"><img src="https://img.shields.io/youtube/views/DFJxT7nUh10?style=social">
