@@ -29,7 +29,7 @@
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `IMDB`: Imdb, the view of information when making True/False.
-* `SINGLE_BUTTON`: choose b/w [single or double buttons](https://github.com/josprojects/tgmoviebot/issues/1) True/False.
+* `SINGLE_BUTTON`: choose b/w [single or double buttons](https://github.com/Raja072326/IMDB-Auto-Filter-Bot/edit/master/README.md) True/False.
 
 ## larger result buttons
 larger results will be better for reading.
@@ -51,10 +51,10 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=am9zcHJvamVjdHMvdGdtb3ZpZWJvdCBtYXN0ZXI">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://github.com/Raja072326/IMDB-Auto-Filter-Bot/edit/master/README.md" alt="Deploy">
 
-<a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/youtube/views/DFJxT7nUh10?style=social">
+<a href="https://t.me/allnewmovieintime"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Telegram"></a>
+<a href="https://t.me/allnewmovieintime"><img src="https://img.shields.io/youtube/views/DFJxT7nUh10?style=social">
 </a>
 </p>
 </details>
